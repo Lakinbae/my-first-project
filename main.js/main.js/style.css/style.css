@@ -1,0 +1,33 @@
+body {
+        font-family: Arial, sans-serif;
+            text-align: center;
+                background-color: #f4f4f4;
+                    padding-top: 50px;
+                    }
+
+                    h1 {
+                        color: #333;
+                        }
+
+                        .choices button {
+                            padding: 10px 20px;
+                                font-size: 18px;
+                                    margin: 5px;
+                                        cursor: pointer;
+                                            border: none;
+                                                border-radius: 5px;
+                                                    background-color: #007bff;
+                                                        color: white;
+                                                        }
+
+                                                        .choices button:hover {
+                                                            background-color: #0056b3;
+                                                            }
+
+                                                            #result-message {
+                                                                font-size: 24px;
+                                                                    font-weight: bold;
+                                                                        margin-top: 20px;
+                                                                        }
+                                                                        
+}
